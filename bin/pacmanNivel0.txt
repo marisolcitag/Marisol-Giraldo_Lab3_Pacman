@@ -1,0 +1,8 @@
+#nivel
+0
+#radio posX posY espera direccion rebotes
+20 270 80 10 LEFT 0 false
+20 30 120 10 RIGTH 0 false
+20 30 210 10 UP 0 false
+20 30 290 10 DOWN 0 false
+20 150 320 10 LEFT 0 false
